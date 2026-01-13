@@ -6,16 +6,16 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange)
 
-## 🚀 Features
+##  Features
 
-* **🚑 Emergency Triage:** Detects life-threatening symptoms (e.g., heart attack, stroke) and warns users immediately.
-* **🧠 Symptom Analysis:** Uses a trained Machine Learning model to predict potential conditions based on user inputs.
-* **📚 Medical Knowledge Base:** Retrieves detailed information about diseases, symptoms, and precautions.
-* **💊 Treatment Recommendations:** Provides home remedies and general recovery guidance.
-* **📄 PDF Reports:** Generates a downloadable consultation report for doctors.
-* **🎤 Voice Support:** Allows users to speak their symptoms instead of typing.
+* ** Emergency Triage:** Detects life-threatening symptoms (e.g., heart attack, stroke) and warns users immediately.
+* ** Symptom Analysis:** Uses a trained Machine Learning model to predict potential conditions based on user inputs.
+* ** Medical Knowledge Base:** Retrieves detailed information about diseases, symptoms, and precautions.
+* ** Treatment Recommendations:** Provides home remedies and general recovery guidance.
+* ** PDF Reports:** Generates a downloadable consultation report for doctors.
+* ** Voice Support:** Allows users to speak their symptoms instead of typing.
 
-## 🛠️ Installation (Run Locally)
+##  Installation (Run Locally)
 
 If you want to run this project on your own machine:
 
@@ -40,7 +40,7 @@ If you want to run this project on your own machine:
         streamlit run frontend/app.py
         ```
 
-## ⚠️ Disclaimer
+##  Disclaimer
 **MediAssist AI is a prototype and NOT a licensed medical professional.** It is intended for educational and informational purposes only. In case of a real medical emergency, call 911/112 or visit the nearest hospital immediately.
 
 ---
